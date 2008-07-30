@@ -13,7 +13,7 @@ PARAMETERS
 EXAMPLES
   xttc status
   xttc projects
-  xttc @projectcode staus
+  xttc @projectcode stauts
   xttc out
 
 LICENSE

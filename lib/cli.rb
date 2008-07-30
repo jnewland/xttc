@@ -22,7 +22,7 @@ Main {
 
   description "A command line bot for working with XTT, ENTP's rad time tracking bot"
 
-  examples 'xttc status', 'xttc projects', 'xttc @projectcode staus', 'xttc out'
+  examples 'xttc status', 'xttc projects', 'xttc @projectcode status', 'xttc out'
 
   def run
     s = ARGV.size > 1 ? ARGV.join(" ") : ARGV.shift
