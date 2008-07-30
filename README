@@ -5,7 +5,7 @@ SYNOPSIS
   xttc (projects|status) [options]+
 
 DESCRIPTION
-  A command line bot for working with XTT, ENTP's rad time tracking bot
+  A command line bot for working with XTT, ENTP's rad time tracking app
 
 PARAMETERS
   --help, -h 

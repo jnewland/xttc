@@ -20,7 +20,7 @@ end
 
 Main {
 
-  description "A command line bot for working with XTT, ENTP's rad time tracking bot"
+  description "A command line bot for working with XTT, ENTP's rad time tracking app"
 
   examples 'xttc status', 'xttc projects', 'xttc @projectcode status', 'xttc out'
 
