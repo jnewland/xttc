@@ -1,0 +1,20 @@
+NAME
+  xttc
+
+SYNOPSIS
+  xttc (projects|status) [options]+
+
+DESCRIPTION
+  A command line bot for working with XTT, ENTP's rad time tracking bot
+
+PARAMETERS
+  --help, -h 
+
+EXAMPLES
+  xttc status
+  xttc projects
+  xttc @projectcode staus
+  xttc out
+
+LICENSE
+  WTFPL - http://sam.zoy.org/wtfpl/
