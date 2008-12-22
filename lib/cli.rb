@@ -44,7 +44,7 @@ Main {
   mode 'status' do
     description 'List your current status'
     def run
-      status = Status.find(:first)
+      status = Status.find(:first, :from => :last)
       say status.message
     end
   end
