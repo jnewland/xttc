@@ -1,5 +1,3 @@
-gem 'main', '>= 2.8.2'
-gem 'highline', '>= 1.4.0'
 require 'main'
 require 'highline/import'
 

@@ -1,8 +1,6 @@
 require 'yaml'
-
-require 'rubygems'
-require 'activesupport'
-require 'activeresource'
+require 'active_support'
+require 'active_resource'
 
 begin
   CONFIG = YAML.load(File.read(ENV['HOME'] + '/.xttc'))
