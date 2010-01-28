@@ -4,6 +4,9 @@ NAME
 SYNOPSIS
   xttc (projects|status) [options]+
 
+INSTALL
+  gem install xttc
+
 DESCRIPTION
   A command line bot for working with XTT, ENTP's rad time tracking app
 

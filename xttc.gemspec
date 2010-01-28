@@ -1,9 +1,9 @@
 Gem::Specification.new do |s|
   s.name = %q{xttc}
-  s.version = "0.1.6"
+  s.version = "0.1.7"
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Jesse Newland","Andy Henson"]
-  s.date = %q{2008-02-15}
+  s.date = %q{2010-01-28}
   s.default_executable = %q{xttc}
   s.description = %q{A command line bot for working with XTT, ENTP's rad time tracking app}
   s.summary = %q{A command line bot for working with XTT, ENTP's rad time tracking app}
